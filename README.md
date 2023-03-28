@@ -1,2 +1,2 @@
-# Computador-bordo
-Esse desafio foi a criação do front-end de um computador de bordo automotivo, com algumas funcionalidades básicas, como acender e apagar a luz, e abrir e fechar o portão da garagem. 
+# Computador-bordo 
+Esse desafio foi a criação do front-end de um computador de bordo automotivo, com algumas funcionalidades básicas, como acender e apagar a luz, e abrir e fechar o portão da garagem. Além de incluir mais três funcionalidades ao critério do aluno, sendo escolhida: acesso à câmera da rua, conferir status dos equipamentos eletrônicos conectados e consultar o histórico dos acionamentos feitos nos equipamentos eletrônicos.
